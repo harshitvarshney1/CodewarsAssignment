@@ -1,0 +1,16 @@
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\obj\Debug\net5.0\Sumofdifferencebtpandhcf.csprojAssemblyReference.cache
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\obj\Debug\net5.0\Sumofdifferencebtpandhcf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\obj\Debug\net5.0\Sumofdifferencebtpandhcf.AssemblyInfoInputs.cache
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\obj\Debug\net5.0\Sumofdifferencebtpandhcf.AssemblyInfo.cs
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\obj\Debug\net5.0\Sumofdifferencebtpandhcf.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\bin\Debug\net5.0\Sumofdifferencebtpandhcf.exe
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\bin\Debug\net5.0\Sumofdifferencebtpandhcf.deps.json
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\bin\Debug\net5.0\Sumofdifferencebtpandhcf.runtimeconfig.json
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\bin\Debug\net5.0\Sumofdifferencebtpandhcf.runtimeconfig.dev.json
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\bin\Debug\net5.0\Sumofdifferencebtpandhcf.dll
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\bin\Debug\net5.0\ref\Sumofdifferencebtpandhcf.dll
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\bin\Debug\net5.0\Sumofdifferencebtpandhcf.pdb
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\obj\Debug\net5.0\Sumofdifferencebtpandhcf.dll
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\obj\Debug\net5.0\ref\Sumofdifferencebtpandhcf.dll
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\obj\Debug\net5.0\Sumofdifferencebtpandhcf.pdb
+C:\Users\s s infotech\source\repos\Sumofdifferencebtpandhcf\Sumofdifferencebtpandhcf\obj\Debug\net5.0\Sumofdifferencebtpandhcf.genruntimeconfig.cache
