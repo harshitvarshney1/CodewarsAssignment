@@ -1,0 +1,16 @@
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\obj\Debug\net5.0\Enough is Enough.csprojAssemblyReference.cache
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\obj\Debug\net5.0\Enough is Enough.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\obj\Debug\net5.0\Enough is Enough.AssemblyInfoInputs.cache
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\obj\Debug\net5.0\Enough is Enough.AssemblyInfo.cs
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\obj\Debug\net5.0\Enough is Enough.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\bin\Debug\net5.0\Enough is Enough.exe
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\bin\Debug\net5.0\Enough is Enough.deps.json
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\bin\Debug\net5.0\Enough is Enough.runtimeconfig.json
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\bin\Debug\net5.0\Enough is Enough.runtimeconfig.dev.json
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\bin\Debug\net5.0\Enough is Enough.dll
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\bin\Debug\net5.0\ref\Enough is Enough.dll
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\bin\Debug\net5.0\Enough is Enough.pdb
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\obj\Debug\net5.0\Enough is Enough.dll
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\obj\Debug\net5.0\ref\Enough is Enough.dll
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\obj\Debug\net5.0\Enough is Enough.pdb
+C:\Users\s s infotech\source\repos\Enough is Enough\Enough is Enough\obj\Debug\net5.0\Enough is Enough.genruntimeconfig.cache
