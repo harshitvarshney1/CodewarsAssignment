@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete occurance", "Delete occurance\Delete occurance.csproj", "{314281FE-A83B-4698-AD1E-EF43267A6B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314281FE-A83B-4698-AD1E-EF43267A6B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314281FE-A83B-4698-AD1E-EF43267A6B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314281FE-A83B-4698-AD1E-EF43267A6B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314281FE-A83B-4698-AD1E-EF43267A6B02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A98F0852-D449-4B1B-B6AC-A9CC0A3AA2CF}
+	EndGlobalSection
+EndGlobal

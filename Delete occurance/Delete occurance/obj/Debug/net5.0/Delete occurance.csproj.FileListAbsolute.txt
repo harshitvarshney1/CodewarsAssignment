@@ -1,0 +1,16 @@
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\bin\Debug\net5.0\Delete occurance.exe
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\bin\Debug\net5.0\Delete occurance.deps.json
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\bin\Debug\net5.0\Delete occurance.runtimeconfig.json
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\bin\Debug\net5.0\Delete occurance.runtimeconfig.dev.json
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\bin\Debug\net5.0\Delete occurance.dll
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\bin\Debug\net5.0\ref\Delete occurance.dll
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\bin\Debug\net5.0\Delete occurance.pdb
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\obj\Debug\net5.0\Delete occurance.csprojAssemblyReference.cache
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\obj\Debug\net5.0\Delete occurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\obj\Debug\net5.0\Delete occurance.AssemblyInfoInputs.cache
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\obj\Debug\net5.0\Delete occurance.AssemblyInfo.cs
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\obj\Debug\net5.0\Delete occurance.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\obj\Debug\net5.0\Delete occurance.dll
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\obj\Debug\net5.0\ref\Delete occurance.dll
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\obj\Debug\net5.0\Delete occurance.pdb
+C:\Users\s s infotech\source\repos\Delete occurance\Delete occurance\obj\Debug\net5.0\Delete occurance.genruntimeconfig.cache
