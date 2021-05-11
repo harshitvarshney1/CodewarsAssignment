@@ -1,0 +1,16 @@
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\bin\Debug\net5.0\SumConsecutive.exe
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\bin\Debug\net5.0\SumConsecutive.deps.json
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\bin\Debug\net5.0\SumConsecutive.runtimeconfig.json
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\bin\Debug\net5.0\SumConsecutive.runtimeconfig.dev.json
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\bin\Debug\net5.0\SumConsecutive.dll
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\bin\Debug\net5.0\ref\SumConsecutive.dll
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\bin\Debug\net5.0\SumConsecutive.pdb
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\obj\Debug\net5.0\SumConsecutive.csprojAssemblyReference.cache
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\obj\Debug\net5.0\SumConsecutive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\obj\Debug\net5.0\SumConsecutive.AssemblyInfoInputs.cache
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\obj\Debug\net5.0\SumConsecutive.AssemblyInfo.cs
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\obj\Debug\net5.0\SumConsecutive.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\obj\Debug\net5.0\SumConsecutive.dll
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\obj\Debug\net5.0\ref\SumConsecutive.dll
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\obj\Debug\net5.0\SumConsecutive.pdb
+C:\Users\s s infotech\source\repos\SumConsecutive\SumConsecutive\obj\Debug\net5.0\SumConsecutive.genruntimeconfig.cache
